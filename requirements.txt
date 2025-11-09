@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+huggingface_hub
+numpy
+pillow
+matplotlib
+streamlit-drawable-canvas

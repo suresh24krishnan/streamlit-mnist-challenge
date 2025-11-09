@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Streamlit cache
+.streamlit/
+
+# Custom digit images
+custom_digits/
+*.png
+
+# Model files (if downloaded locally)
+*.h5
+*.ckpt
+*.pb
+*.tflite
+
+# Logs
+*.log
