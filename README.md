@@ -34,3 +34,8 @@ pip install -r requirements.txt
 - MNIST dataset by Yann LeCun et al.
 - Hugging Face for model hosting
 - Streamlit community for awesome widgets
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE).
+
